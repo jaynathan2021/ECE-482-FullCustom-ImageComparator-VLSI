@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      jiey7
+HostName                       fastx3-14.ews.illinois.edu
+ProcessIdentifier              910178
+ProcessCreationTime_UTC        1733450147
+ProcessCreationTime_Readable   Thu Dec  5 19:55:47 2024 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/jiey7/ece482.work/gpdk045/whole_circuit_with_instances_power/Half_adder/layout/layout.oa.cdslck
+TimeEditLocked                 Thu Dec  5 22:19:10 2024 CST

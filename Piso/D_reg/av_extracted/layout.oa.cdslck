@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      leweit2
+HostName                       fastx3-01.ews.illinois.edu
+ProcessIdentifier              122480
+ProcessCreationTime_UTC        1731883164
+ProcessCreationTime_Readable   Sun Nov 17 16:39:24 2024 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/leweit2/ece482.work/gpdk045/Dreg/D_reg/av_extracted/layout.oa.cdslck
+TimeEditLocked                 Sun Nov 17 16:50:00 2024 CST

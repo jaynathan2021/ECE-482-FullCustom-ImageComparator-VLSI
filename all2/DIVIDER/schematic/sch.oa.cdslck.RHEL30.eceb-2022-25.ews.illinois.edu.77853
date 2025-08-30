@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      phuvitt2
+HostName                       eceb-2022-25.ews.illinois.edu
+ProcessIdentifier              77853
+ProcessCreationTime_UTC        1733532630
+ProcessCreationTime_Readable   Fri Dec  6 18:50:30 2024 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/phuvitt2/ece482.work/gpdk045/Project/4frequencydivider/schematic/sch.oa.cdslck
+TimeEditLocked                 Fri Dec  6 18:51:20 2024 CST
